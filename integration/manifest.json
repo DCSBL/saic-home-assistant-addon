@@ -1,0 +1,10 @@
+{
+  "domain": "saic",
+  "name": "Saic MQTT Gateway",
+  "codeowners": ["@Tonno87"],
+  "dependencies": ["mqtt", "saic-python-mqtt-gateway"],
+  "documentation": "https://www.example.com",
+  "integration_type": "hub",
+  "iot_class": "local_polling",
+  "requirements": []
+}
